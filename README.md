@@ -1,7 +1,5 @@
 # POC Acesso Escolar com Grafos
 
-Este projeto é uma prova de conceito (POC) que demonstra como usar grafos para avaliar a acessibilidade de alunos à escola após bloqueios de ruas causados por fortes chuvas e alagamentos.
-
 ## 📖 Introdução
 
 Após fortes chuvas, muitas ruas do bairro ficaram alagadas e intransitáveis. Este POC modela o bairro como um grafo, onde:
