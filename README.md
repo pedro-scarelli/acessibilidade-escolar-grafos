@@ -21,11 +21,16 @@ Bloqueios por alagamentos são simulados removendo-se arestas, e então avaliamo
 
 ---
 
+## 📷 Representação visual do grafo
+
+![image](https://github.com/user-attachments/assets/eec8d939-242a-41c5-9472-92704dd7064e)
+
+---
+
 ## 🛠️ Ferramentas e Tecnologias
 
 - **Python 3.7+**  
-- **NetworkX** (para modelagem e análise de grafos)  
-- **Matplotlib** (opcional, para visualização)  
+- **NetworkX** (para modelagem e análise de grafos)   ( https://networkx.org/documentation/stable/tutorial.html )
 
 ---
 
