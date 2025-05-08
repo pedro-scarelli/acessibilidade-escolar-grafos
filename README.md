@@ -47,8 +47,8 @@ Bloqueios por alagamentos são simulados removendo-se arestas, e então avaliamo
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/poc-acesso-escolar-grafos.git
-   cd poc-acesso-escolar-grafos
+   git clone https://github.com/pedro-scarelli/acessibilidade-escolar-grafos.git
+   cd acessibilidade-escolar-grafos
     ```
 2. Crie um ambiente virtual e instale as dependências:  
 ```bash
